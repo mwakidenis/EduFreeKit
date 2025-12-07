@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Repo Views](https://komarev.com/ghpvc/?username=mwakidenis-EduKit-Africa&label=EduKit-Africa+Views&color=blueviolet&style=for-the-badge)
+  ![Repo Views](https://komarev.com/ghpvc/?username=mwakidenis-EduFreeKit&label=EduKit-Africa+Views&color=blueviolet&style=for-the-badge)
 
   <img src="src/assets/hero-image.jpg" alt="EduKit Africa" width="600"/>
   
@@ -18,7 +18,7 @@
   ![GitHub stars](https://img.shields.io/github/stars/mwakidenis/EduKit-Africa)
   ![GitHub issues](https://img.shields.io/github/issues/mwakidenis/EduKit-Africa)
   
-  [🌐 Live Demo](https://afri-skill-forge.vercel.app) · [🐛 Report Bug](https://github.com/mwakidenis/EduKit-Africa/issues) · [💡 Request Feature](https://github.com/mwakidenis/EduKit-Africa/issues) · [🤝 Join Discord](#contact)
+  [🌐 Live Demo](https://afri-skill-forge.vercel.app) · [🐛 Report Bug](https://github.com/mwakidenis/EduFreeKit/issues) · [💡 Request Feature](https://github.com/mwakidenis/EduFreeKit/issues) · [🤝 Join Discord](#contact)
 </div>
 
 ---
@@ -527,7 +527,7 @@ The easiest way to contribute is by sharing quality learning resources:
 #### 2. 💻 Contribute Code
 Help improve the platform itself:
 - Check out our [Contributing Guide](CONTRIBUTING.md) for detailed setup instructions
-- Browse [good first issues](https://github.com/mwakidenis/EduKit-Africa/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+- Browse [good first issues](https://github.com/mwakidenis/EduFreeKit/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 - Areas we need help:
   - 🐛 Bug fixes
   - ✨ New features (learning paths, advanced search, analytics)
@@ -597,8 +597,8 @@ sequenceDiagram
 
 2. **Clone your fork**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/edukit-africa.git
-   cd edukit-africa
+   git clone https://github.com/mwakidenis/EduFreeKit.git
+   cd EduFreekit
    ```
 
 3. **Create a feature branch**
@@ -694,7 +694,7 @@ All contributors are recognized in our:
 
 <div align="center">
   
-  ![Repo Views](https://komarev.com/ghpvc/?username=mwakidenis-EduKit-Africa&label=EduKit-Africa+Views&color=blueviolet&style=for-the-badge)
+  ![Repo Views](https://komarev.com/ghpvc/?username=mwakidenis-EduFreeKit&label=EduKit-Africa+Views&color=blueviolet&style=for-the-badge)
 
   <img src="src/assets/hero-image.jpg" alt="EduKit Africa" width="600"/>
   
@@ -706,11 +706,11 @@ All contributors are recognized in our:
   [![React](https://img.shields.io/badge/React-18.3-61DAFB.svg)](https://reactjs.org/)
   [![Vite](https://img.shields.io/badge/Vite-5.4-646CFF.svg)](https://vitejs.dev/)
   [![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL-3ECF8E.svg)](https://supabase.com/)
-  ![GitHub contributors](https://img.shields.io/github/contributors/mwakidenis/EduKit-Africa)
-  ![GitHub stars](https://img.shields.io/github/stars/mwakidenis/EduKit-Africa)
-  ![GitHub issues](https://img.shields.io/github/issues/mwakidenis/EduKit-Africa)
+  ![GitHub contributors](https://img.shields.io/github/contributors/mwakidenis/EduFreeKit)
+  ![GitHub stars](https://img.shields.io/github/stars/mwakidenis/EduFreeKit)
+  ![GitHub issues](https://img.shields.io/github/issues/mwakidenis/EduFreeKit)
   
-  [🌐 Live Demo](https://afri-skill-forge.vercel.app) · [🐛 Report Bug](https://github.com/mwakidenis/EduKit-Africa/issues) · [💡 Request Feature](https://github.com/mwakidenis/EduKit-Africa/issues) · [🤝 Join Discord](#contact)
+  [🌐 Live Demo](https://afri-skill-forge.vercel.app) · [🐛 Report Bug](https://github.com/mwakidenis/EduFreeKit/issues) · [💡 Request Feature](https://github.com/mwakidenis/EduFreeKit/issues) · [🤝 Join Discord](#contact)
 </div>
 
 ---
@@ -1219,7 +1219,7 @@ The easiest way to contribute is by sharing quality learning resources:
 #### 2. 💻 Contribute Code
 Help improve the platform itself:
 - Check out our [Contributing Guide](CONTRIBUTING.md) for detailed setup instructions
-- Browse [good first issues](https://github.com/mwakidenis/EduKit-Africa/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+- Browse [good first issues](https://github.com/mwakidenis/EduFFreeKit/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 - Areas we need help:
   - 🐛 Bug fixes
   - ✨ New features (learning paths, advanced search, analytics)
@@ -1390,7 +1390,7 @@ All contributors are recognized in our:
 
 ### ❓ Questions?
 
-- 💬 Join our [Discussions](https://github.com/mwakidenis/EduKit-Africa/discussions)
+- 💬 Join our [Discussions](https://github.com/mwakidenis/EduFreeKit/discussions)
 - 📧 Email us at [contribute@edukit-africa.com](mailto:contribute@edukit-africa.com)
 - 🐛 [Report issues](https://github.com/mwakidenis/EduKit-Africa/issues)
 - 💡 [Suggest features](https://github.com/mwakidenis/EduKit-Africa/issues/new?assignees=&labels=enhancement&template=feature_request.md)
@@ -1497,22 +1497,22 @@ SOFTWARE.
 
 | Platform | Link | Purpose |
 |----------|------|---------|
-| 💻 **GitHub** | [EduKit Africa Repository](https://github.com/mwakidenis/EduKit-Africa) | Code, Issues, PRs |
+| 💻 **GitHub** | [EduKit Africa Repository](https://github.com/mwakidenis/EduFreeKit) | Code, Issues, PRs |
 | 🐦 **Twitter** | [@EdukitAfrica](https://twitter.com/edukitafrica) | Updates & News |
-| 💬 **Discussions** | [GitHub Discussions](https://github.com/mwakidenis/EduKit-Africa/discussions) | Community Chat |
+| 💬 **Discussions** | [GitHub Discussions](https://github.com/mwakidenis/EduFreeKit/discussions) | Community Chat |
 | 📧 **Email** | contact@edukitafrica.org | General Inquiries |
 | 🤝 **LinkedIn** | [EduKit Africa](#) | Professional Network |
 | 📱 **Discord** | [Join Server](#) | Real-time Chat |
 
 ### 📊 Project Statistics
 
-![GitHub stars](https://img.shields.io/github/stars/mwakidenis/EduKit-Africa?style=social)
-![GitHub forks](https://img.shields.io/github/forks/mwakidenis/EduKit-Africa?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/mwakidenis/EduKit-Africa?style=social)
+![GitHub stars](https://img.shields.io/github/stars/mwakidenis/EduFreeKit?style=social)
+![GitHub forks](https://img.shields.io/github/forks/mwakidenis/EduFreeKit?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/mwakidenis/EduFreeKit?style=social)
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/mwakidenis/EduKit-Africa)
-![GitHub last commit](https://img.shields.io/github/last-commit/mwakidenis/EduKit-Africa)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/mwakidenis/EduKit-Africa)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/mwakidenis/EduFreeKit)
+![GitHub last commit](https://img.shields.io/github/last-commit/mwakidenis/EduFreeKit)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/mwakidenis/EduFreeKit)
 
 </div>
 
@@ -1530,7 +1530,7 @@ SOFTWARE.
 
 ### 💝 Special Thanks
 
-- **Contributors**: Thank you to all our amazing [contributors](https://github.com/mwakidenis/EduKit-Africa/graphs/contributors) who have helped build EduKit Africa
+- **Contributors**: Thank you to all our amazing [contributors](https://github.com/mwakidenis/EduFreeKit/graphs/contributors) who have helped build EduKit Africa
 - **African Tech Community**: For the inspiration and continuous support
 - **Open Source Community**: For the tools and libraries that make this possible
 - **Early Adopters**: For testing and providing valuable feedback
@@ -1628,7 +1628,7 @@ New to open source? Start here! We've curated a list of beginner-friendly issues
 If EduKit Africa has helped you, consider supporting us:
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-pink?style=for-the-badge&logo=github)](https://github.com/sponsors/mwakidenis)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/edukitafrica)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/0798750585)
 
 ### Ways to Support
 - ⭐ Star this repository
@@ -1777,13 +1777,13 @@ SOFTWARE.
 
 ### 📊 Project Statistics
 
-![GitHub stars](https://img.shields.io/github/stars/mwakidenis/EduKit-Africa?style=social)
-![GitHub forks](https://img.shields.io/github/forks/mwakidenis/EduKit-Africa?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/mwakidenis/EduKit-Africa?style=social)
+![GitHub stars](https://img.shields.io/github/stars/mwakidenis/EduFreeKit?style=social)
+![GitHub forks](https://img.shields.io/github/forks/mwakidenis/EduFreeKit?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/mwakidenis/EduFreeKit?style=social)
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/mwakidenis/EduKit-Africa)
-![GitHub last commit](https://img.shields.io/github/last-commit/mwakidenis/EduKit-Africa)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/mwakidenis/EduKit-Africa)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/mwakidenis/EduFreeKit)
+![GitHub last commit](https://img.shields.io/github/last-commit/mwakidenis/EduFreeKit)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/mwakidenis/EduFreeKit)
 
 </div>
 
@@ -1801,14 +1801,14 @@ SOFTWARE.
 
 ### 💝 Special Thanks
 
-- **Contributors**: Thank you to all our amazing [contributors](https://github.com/mwakidenis/EduKit-Africa/graphs/contributors) who have helped build EduKit Africa
+- **Contributors**: Thank you to all our amazing [contributors](https://github.com/mwakidenis/EduFreeKit/graphs/contributors) who have helped build EduKit Africa
 - **African Tech Community**: For the inspiration and continuous support
 - **Open Source Community**: For the tools and libraries that make this possible
 - **Early Adopters**: For testing and providing valuable feedback
 
 ### 🏆 Supporters
 
-If your organization would like to sponsor this project, please [reach out](mailto:contribute@edukit-africa.com)!
+If your organization would like to sponsor this project, please [reach out](https://wa.me/254798750585)!
 
 ---
 
@@ -1872,7 +1872,7 @@ gantt
 
 If you find this project useful, please consider giving it a star ⭐
 
-[![Star History Chart](https://api.star-history.com/svg?repos=mwakidenis/EduKit-Africa&type=Date)](https://star-history.com/#mwakidenis/EduKit-Africa&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=mwakidenis/EduFreeKit&type=Date)](https://star-history.com/#mwakidenis/EduFreeKit&Date)
 
 ---
 
@@ -1880,7 +1880,7 @@ If you find this project useful, please consider giving it a star ⭐
 
 New to open source? Start here! We've curated a list of beginner-friendly issues:
 
-[![Good First Issues](https://img.shields.io/github/issues/mwakidenis/EduKit-Africa/good%20first%20issue?color=7057ff&label=Good%20First%20Issues)](https://github.com/mwakidenis/EduKit-Africa/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+[![Good First Issues](https://img.shields.io/github/issues/mwakidenis/EduFreeKit/good%20first%20issue?color=7057ff&label=Good%20First%20Issues)](https://github.com/mwakidenis/EduFreeKit/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 
 ### 🔰 Beginner-Friendly Tasks
 
@@ -1911,7 +1911,7 @@ If EduKit Africa has helped you, consider supporting us:
 
 ---
 
-![Repo Views](https://komarev.com/ghpvc/?username=mwakidenis-EduKit-Africa&label=EduKit-Africa+Views&color=blue&style=flat)
+![Repo Views](https://komarev.com/ghpvc/?username=mwakidenis-EduFreeKit&label=EduKit-Africa+Views&color=blue&style=flat)
 
   **Made with ❤️ in Africa for the World 🌍**
   
@@ -1921,6 +1921,6 @@ If EduKit Africa has helped you, consider supporting us:
   
   ---
   
-  <sub>Built by [mwakidenis](https://github.com/mwakidenis) and [contributors](https://github.com/mwakidenis/EduKit-Africa/graphs/contributors)</sub>
+  <sub>Built by [mwakidenis](https://github.com/mwakidenis) and [contributors](https://github.com/mwakidenis/EduFreeKit/graphs/contributors)</sub>
   
 </div>
