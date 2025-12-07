@@ -1626,9 +1626,12 @@ New to open source? Start here! We've curated a list of beginner-friendly issues
 ## 💖 Support the Project
 
 If you feel EduKit Africa has helped you, consider supporting us:
+##
 
+[![EduFreeKit Views](https://komarev.com/ghpvc/?username=mwakidenis-EduFreeKit&label=EduFreeKit+Views&color=blue&style=for-the-badge)](https://github.com/mwakidenis-EduFreeKit)
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-pink?style=for-the-badge&logo=github)](https://github.com/sponsors/mwakidenis)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%F0%9F%8D%B5-yellow)](https://wa.me/254798750585)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%F0%9F%8D%B5-yellow?style=for-the-badge)](https://wa.me/254798750585)
+
 
 
 ### Ways to Support
