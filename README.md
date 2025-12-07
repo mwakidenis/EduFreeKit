@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Repo Views](https://komarev.com/ghpvc/?username=mwakidenis-EduFreeKit&label=EduKit-Africa+Views&color=blueviolet&style=for-the-badge)
+  ![Repo Views](https://komarev.com/ghpvc/?username=mwakidenis-EduKit-Africa&label=EduKit-Africa+Views&color=blueviolet&style=for-the-badge)
 
   <img src="src/assets/hero-image.jpg" alt="EduKit Africa" width="600"/>
   
@@ -18,7 +18,7 @@
   ![GitHub stars](https://img.shields.io/github/stars/mwakidenis/EduKit-Africa)
   ![GitHub issues](https://img.shields.io/github/issues/mwakidenis/EduKit-Africa)
   
-  [🌐 Live Demo](https://afri-skill-forge.vercel.app) · [🐛 Report Bug](https://github.com/mwakidenis/EduFreeKit/issues) · [💡 Request Feature](https://github.com/mwakidenis/EduFreeKit/issues) · [🤝 Join Discord](#contact)
+  [🌐 Live Demo](https://afri-skill-forge.vercel.app) · [🐛 Report Bug](https://github.com/mwakidenis/EduKit-Africa/issues) · [💡 Request Feature](https://github.com/mwakidenis/EduKit-Africa/issues) · [🤝 Join Discord](#contact)
 </div>
 
 ---
@@ -527,7 +527,7 @@ The easiest way to contribute is by sharing quality learning resources:
 #### 2. 💻 Contribute Code
 Help improve the platform itself:
 - Check out our [Contributing Guide](CONTRIBUTING.md) for detailed setup instructions
-- Browse [good first issues](https://github.com/mwakidenis/EduFreeKit/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+- Browse [good first issues](https://github.com/mwakidenis/EduKit-Africa/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 - Areas we need help:
   - 🐛 Bug fixes
   - ✨ New features (learning paths, advanced search, analytics)
@@ -597,8 +597,8 @@ sequenceDiagram
 
 2. **Clone your fork**
    ```bash
-   git clone https://github.com/mwakidenis/EduFreeKit.git
-   cd EduFreekit
+   git clone https://github.com/YOUR_USERNAME/edukit-africa.git
+   cd edukit-africa
    ```
 
 3. **Create a feature branch**
@@ -694,7 +694,7 @@ All contributors are recognized in our:
 
 <div align="center">
   
-  ![Repo Views](https://komarev.com/ghpvc/?username=mwakidenis-EduFreeKit&label=EduKit-Africa+Views&color=blueviolet&style=for-the-badge)
+  ![Repo Views](https://komarev.com/ghpvc/?username=mwakidenis-EduKit-Africa&label=EduKit-Africa+Views&color=blueviolet&style=for-the-badge)
 
   <img src="src/assets/hero-image.jpg" alt="EduKit Africa" width="600"/>
   
@@ -706,11 +706,11 @@ All contributors are recognized in our:
   [![React](https://img.shields.io/badge/React-18.3-61DAFB.svg)](https://reactjs.org/)
   [![Vite](https://img.shields.io/badge/Vite-5.4-646CFF.svg)](https://vitejs.dev/)
   [![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL-3ECF8E.svg)](https://supabase.com/)
-  ![GitHub contributors](https://img.shields.io/github/contributors/mwakidenis/EduFreeKit)
-  ![GitHub stars](https://img.shields.io/github/stars/mwakidenis/EduFreeKit)
-  ![GitHub issues](https://img.shields.io/github/issues/mwakidenis/EduFreeKit)
+  ![GitHub contributors](https://img.shields.io/github/contributors/mwakidenis/EduKit-Africa)
+  ![GitHub stars](https://img.shields.io/github/stars/mwakidenis/EduKit-Africa)
+  ![GitHub issues](https://img.shields.io/github/issues/mwakidenis/EduKit-Africa)
   
-  [🌐 Live Demo](https://afri-skill-forge.vercel.app) · [🐛 Report Bug](https://github.com/mwakidenis/EduFreeKit/issues) · [💡 Request Feature](https://github.com/mwakidenis/EduFreeKit/issues) · [🤝 Join Discord](#contact)
+  [🌐 Live Demo](https://afri-skill-forge.vercel.app) · [🐛 Report Bug](https://github.com/mwakidenis/EduKit-Africa/issues) · [💡 Request Feature](https://github.com/mwakidenis/EduKit-Africa/issues) · [🤝 Join Discord](#contact)
 </div>
 
 ---
@@ -1219,7 +1219,7 @@ The easiest way to contribute is by sharing quality learning resources:
 #### 2. 💻 Contribute Code
 Help improve the platform itself:
 - Check out our [Contributing Guide](CONTRIBUTING.md) for detailed setup instructions
-- Browse [good first issues](https://github.com/mwakidenis/EduFFreeKit/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+- Browse [good first issues](https://github.com/mwakidenis/EduKit-Africa/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 - Areas we need help:
   - 🐛 Bug fixes
   - ✨ New features (learning paths, advanced search, analytics)
@@ -1289,8 +1289,8 @@ sequenceDiagram
 
 2. **Clone your fork**
    ```bash
-   git clone https://github.com/mwakidenis/EduFreeKit.git
-   cd EduFreeKit
+   git clone https://github.com/YOUR_USERNAME/edukit-africa.git
+   cd edukit-africa
    ```
 
 3. **Create a feature branch**
@@ -1382,277 +1382,7 @@ We're especially looking for help in these areas:
 ### 🏆 Recognition
 
 All contributors are recognized in our:
-- [Contributors Page](https://github.com/mwakidenis/EduFreeKit/graphs/contributors)
-- Monthly community highlights on our social media
-- Annual contributor showcase
-- Special badges for significant contributions
-- Featured in our "Contributor Spotlight" blog series
-
-### ❓ Questions?
-
-- 💬 Join our [Discussions](https://github.com/mwakidenis/EduFreeKit/discussions)
-- 📧 Email us at [contribute@edukit-africa.com](mailto:contribute@edukit-africa.com)
-- 🐛 [Report issues](https://github.com/mwakidenis/EduKit-Africa/issues)
-- 💡 [Suggest features](https://github.com/mwakidenis/EduKit-Africa/issues/new?assignees=&labels=enhancement&template=feature_request.md)
-
----
-
-## 🌟 Join Our Community
-
-<div align="center">
-
-### We're Building Something Special - Join Us! 🚀
-
-**EduKit Africa is more than just code - it's a movement to make tech education accessible to everyone.**
-
-#### 👥 Looking for:
-- 🔹 Frontend Developers (React, TypeScript)
-- 🔹 Backend Developers (PostgreSQL, Supabase)
-- 🔹 UI/UX Designers
-- 🔹 Technical Writers
-- 🔹 DevOps Engineers
-- 🔹 Community Managers
-- 🔹 Content Curators
-
-#### 💡 What You'll Gain:
-- ✅ Real-world open-source experience
-- ✅ Collaborate with developers worldwide
-- ✅ Build your portfolio with meaningful projects
-- ✅ Learn modern web development practices
-- ✅ Make a positive impact on tech education in Africa
-- ✅ Recognition in the community
-
-#### 🤝 How to Get Involved:
-1. ⭐ **Star this repository** to show your support
-2. 🍴 **Fork the repository** and start contributing
-3. 💬 **Join our discussions** to connect with the community
-4. 📣 **Spread the word** - share EduKit Africa with others
-5. 📧 **Reach out** if you want to take on a leadership role
-
-### Let's democratize tech education together! 🌍
-
-</div>
-
----
-
-## 📜 Code of Conduct
-
-We are committed to providing a welcoming and inclusive experience for everyone. Please read our full [Code of Conduct](CODE_OF_CONDUCT.md) to understand the standards we uphold.
-
-**In summary:**
-- ✅ Be respectful and inclusive
-- ✅ Welcome newcomers warmly
-- ✅ Accept constructive criticism gracefully
-- ✅ Focus on what's best for the community
-- ❌ No harassment or discriminatory behavior
-- ❌ No trolling or personal attacks
-
-**Violations?** Report to [contribute@edukit-africa.com](mailto:contribute@edukit-africa.com)
-
----
-
-## 🔒 Security
-
-Found a security vulnerability? Please see our [Security Policy](SECURITY.md) for how to report it responsibly.
-
-**Do not report security issues publicly.** Email security@edukit-africa.com instead.
-
----
-
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` file for more information.
-
-```
-MIT License
-
-Copyright (c) 2024 EduKit Africa
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
-
----
-
-## 📞 Contact & Community
-
-<div align="center">
-
-### Connect With Us
-
-| Platform | Link | Purpose |
-|----------|------|---------|
-| 💻 **GitHub** | [EduKit Africa Repository](https://github.com/mwakidenis/EduFreeKit) | Code, Issues, PRs |
-| 🐦 **Twitter** | [@EdukitAfrica](https://twitter.com/edukitafrica) | Updates & News |
-| 💬 **Discussions** | [GitHub Discussions](https://github.com/mwakidenis/EduFreeKit/discussions) | Community Chat |
-| 📧 **Email** | contact@edukitafrica.org | General Inquiries |
-| 🤝 **LinkedIn** | [EduKit Africa](#) | Professional Network |
-| 📱 **Discord** | [Join Server](#) | Real-time Chat |
-
-### 📊 Project Statistics
-
-![GitHub stars](https://img.shields.io/github/stars/mwakidenis/EduFreeKit?style=social)
-![GitHub forks](https://img.shields.io/github/forks/mwakidenis/EduFreeKit?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/mwakidenis/EduFreeKit?style=social)
-
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/mwakidenis/EduFreeKit)
-![GitHub last commit](https://img.shields.io/github/last-commit/mwakidenis/EduFreeKit)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/mwakidenis/EduFreeKit)
-
-</div>
-
----
-
-## 🙏 Acknowledgments
-
-### 🛠️ Built With
-
-- Powered by [Supabase](https://supabase.com) - Open source Firebase alternative
-- UI components from [shadcn/ui](https://ui.shadcn.com)
-- Icons by [Lucide](https://lucide.dev)
-- Styling with [Tailwind CSS](https://tailwindcss.com)
-- Hosted on [Vercel](https://vercel.com)
-
-### 💝 Special Thanks
-
-- **Contributors**: Thank you to all our amazing [contributors](https://github.com/mwakidenis/EduFreeKit/graphs/contributors) who have helped build EduKit Africa
-- **African Tech Community**: For the inspiration and continuous support
-- **Open Source Community**: For the tools and libraries that make this possible
-- **Early Adopters**: For testing and providing valuable feedback
-
-### 🏆 Supporters
-
-If your organization would like to sponsor this project, please [reach out](mailto:contribute@edukit-africa.com)!
-
----
-
-## 📈 Project Metrics
-
-<div align="center">
-
-```mermaid
-pie title Resource Distribution by Category
-    "Web Development" : 25
-    "AI/ML & Data Science" : 20
-    "Cloud Computing" : 15
-    "Mobile Development" : 12
-    "DevOps" : 10
-    "Cybersecurity" : 8
-    "Blockchain & Web3" : 6
-    "Computer Science" : 4
-```
-
-**Making tech education accessible to everyone, one resource at a time.**
-
-</div>
-
----
-
-## 🗺️ Roadmap
-
-```mermaid
-gantt
-    title EduKit Africa Development Roadmap
-    dateFormat YYYY-MM
-    section Phase 1 - Foundation
-    Core Platform           :done, 2024-01, 2024-03
-    User Authentication     :done, 2024-02, 2024-03
-    Resource Management     :done, 2024-03, 2024-04
-    section Phase 2 - Enhancement
-    Advanced Search         :active, 2024-11, 2025-01
-    Analytics Dashboard     :active, 2024-12, 2025-02
-    Testing Infrastructure  :2024-12, 2025-01
-    section Phase 3 - Growth
-    Mobile App Development  :2025-01, 2025-04
-    API v2                  :2025-02, 2025-03
-    Internationalization    :2025-02, 2025-04
-    section Phase 4 - Innovation
-    AI Recommendations      :2025-04, 2025-06
-    Learning Paths          :2025-05, 2025-07
-    Community Features      :2025-06, 2025-08
-```
-
-### 🎯 Upcoming Features
-
-- 🔍 **Q1 2025**: Advanced search with AI-powered suggestions
-- 📊 **Q1 2025**: Comprehensive analytics dashboard
-- 🌐 **Q2 2025**: Multi-language support (French, Swahili, Arabic)
-- 📱 **Q2 2025**: Native mobile applications
-- 🎓 **Q2 2025**: Guided learning paths and certifications
-- 🤖 **Q3 2025**: AI-powered resource recommendations
-- 🎮 **Q3 2025**: Gamification and achievement system
-
-## 🌟 Star History
-
-If you find this project useful, please consider giving it a star ⭐
-
-[![Star History Chart](https://api.star-history.com/svg?repos=mwakidenis/EduKit-Africa&type=Date)](https://star-history.com/#mwakidenis/EduKit-Africa&Date)
-
----
-
-## 🎯 Good First Issues
-
-New to open source? Start here! We've curated a list of beginner-friendly issues:
-
-[![Good First Issues](https://img.shields.io/github/issues/mwakidenis/EduKit-Africa/good%20first%20issue?color=7057ff&label=Good%20First%20Issues)](https://github.com/mwakidenis/EduKit-Africa/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
-
-### 🔰 Beginner-Friendly Tasks
-
-1. **Documentation**: Fix typos, improve clarity, add examples
-2. **UI Improvements**: Enhance button styles, improve spacing
-3. **Accessibility**: Add ARIA labels, improve keyboard navigation
-4. **Bug Fixes**: Simple bug fixes with clear reproduction steps
-5. **Testing**: Write tests for existing components
-
----
-
-<div align="center">
-
-## 💖 Support the Project
-
-If EduKit Africa has helped you, consider supporting us:
-
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-pink?style=for-the-badge&logo=github)](https://github.com/sponsors/mwakidenis)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/0798750585)
-
-### Ways to Support
-- ⭐ Star this repository
-- 🐛 Report bugs and issues
-- 💡 Suggest new features
-- 🔀 Submit pull requests
-- 📢 Share with your network
-- 💰 Sponsor the project
-
----
-
-![Repo Views](https://komarev.com/ghpvc/?username=mwakidenis-EduFreeKit&label=EduFreeKit+Views&color=blue&style=flat)
-
-  **Made with ❤️ in Africa for the World 🌍**
-  
-  **Open Source • Community Driven • Free Forever**
-  
-  [⬆ Back to Top](#-edukit-africa)
-  
-  ---
-  
-  <sub>Built by (https://github.com/mwakidenis) and [contributors]/EduFreeKit/graphs/contributors)</sub>
-  
-</div>
+- [Contributors Page](https://github.com/lewiii254/EduKit-Africa/graphs/contributors)
 - Monthly community highlights on our social media
 - Annual contributor showcase
 - Special badges for significant contributions
@@ -1767,22 +1497,22 @@ SOFTWARE.
 
 | Platform | Link | Purpose |
 |----------|------|---------|
-| 💻 **GitHub** | [EduKit Africa Repository](https://github.com/mwakidenis/EduFreeKit/) | Code, Issues, PRs |
+| 💻 **GitHub** | [EduKit Africa Repository](https://github.com/mwakidenis/EduKit-Africa) | Code, Issues, PRs |
 | 🐦 **Twitter** | [@EdukitAfrica](https://twitter.com/edukitafrica) | Updates & News |
-| 💬 **Discussions** | [GitHub Discussions](https://github.com/mwakidenis/EduFreeKit/discussions) | Community Chat |
+| 💬 **Discussions** | [GitHub Discussions](https://github.com/mwakidenis/EduKit-Africa/discussions) | Community Chat |
 | 📧 **Email** | contact@edukitafrica.org | General Inquiries |
 | 🤝 **LinkedIn** | [EduKit Africa](#) | Professional Network |
 | 📱 **Discord** | [Join Server](#) | Real-time Chat |
 
 ### 📊 Project Statistics
 
-![GitHub stars](https://img.shields.io/github/stars/mwakidenis/EduFreeKit?style=social)
-![GitHub forks](https://img.shields.io/github/forks/mwakidenis/EduFreeKit?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/mwakidenis/EduFreeKit?style=social)
+![GitHub stars](https://img.shields.io/github/stars/mwakidenis/EduKit-Africa?style=social)
+![GitHub forks](https://img.shields.io/github/forks/mwakidenis/EduKit-Africa?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/mwakidenis/EduKit-Africa?style=social)
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/mwakidenis/EduFreeKit)
-![GitHub last commit](https://img.shields.io/github/last-commit/mwakidenis/EduFreeKit)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/mwakidenis/EduFreeKit)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/mwakidenis/EduKit-Africa)
+![GitHub last commit](https://img.shields.io/github/last-commit/mwakidenis/EduKit-Africa)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/mwakidenis/EduKit-Africa)
 
 </div>
 
@@ -1800,14 +1530,14 @@ SOFTWARE.
 
 ### 💝 Special Thanks
 
-- **Contributors**: Thank you to all our amazing [contributors](https://github.com/mwakidenis/EduFreeKit/graphs/contributors) who have helped build EduKit Africa
+- **Contributors**: Thank you to all our amazing [contributors](https://github.com/mwakidenis/EduKit-Africa/graphs/contributors) who have helped build EduKit Africa
 - **African Tech Community**: For the inspiration and continuous support
 - **Open Source Community**: For the tools and libraries that make this possible
 - **Early Adopters**: For testing and providing valuable feedback
 
 ### 🏆 Supporters
 
-If your organization would like to sponsor this project, please [reach out](https://wa.me/254798750585)!
+If your organization would like to sponsor this project, please [reach out](mailto:contribute@edukit-africa.com)!
 
 ---
 
@@ -1871,7 +1601,7 @@ gantt
 
 If you find this project useful, please consider giving it a star ⭐
 
-[![Star History Chart](https://api.star-history.com/svg?repos=mwakidenis/EduFreeKit&type=Date)](https://star-history.com/#mwakidenis/EduFreeKit&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=mwakidenis/EduKit-Africa&type=Date)](https://star-history.com/#mwakidenis/EduKit-Africa&Date)
 
 ---
 
@@ -1879,7 +1609,7 @@ If you find this project useful, please consider giving it a star ⭐
 
 New to open source? Start here! We've curated a list of beginner-friendly issues:
 
-[![Good First Issues](https://img.shields.io/github/issues/mwakidenis/EduFreeKit/good%20first%20issue?color=7057ff&label=Good%20First%20Issues)](https://github.com/mwakidenis/EduFreeKit/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+[![Good First Issues](https://img.shields.io/github/issues/mwakidenis/EduKit-Africa/good%20first%20issue?color=7057ff&label=Good%20First%20Issues)](https://github.com/mwakidenis/EduKit-Africa/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 
 ### 🔰 Beginner-Friendly Tasks
 
@@ -1898,7 +1628,279 @@ New to open source? Start here! We've curated a list of beginner-friendly issues
 If EduKit Africa has helped you, consider supporting us:
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-pink?style=for-the-badge&logo=github)](https://github.com/sponsors/mwakidenis)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow?style=for-the-badge&logo=buy-me-a-coffee)](https://wa.me/254798750585)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/edukitafrica)
+
+### Ways to Support
+- ⭐ Star this repository
+- 🐛 Report bugs and issues
+- 💡 Suggest new features
+- 🔀 Submit pull requests
+- 📢 Share with your network
+- 💰 Sponsor the project
+
+---
+
+![Repo Views](https://komarev.com/ghpvc/?username=mwakidenis-EduKit-Africa&label=EduKit-Africa+Views&color=blue&style=flat)
+
+  **Made with ❤️ in Africa for the World 🌍**
+  
+  **Open Source • Community Driven • Free Forever**
+  
+  [⬆ Back to Top](#-edukit-africa)
+  
+  ---
+  
+  <sub>Built by [lewiii254](https://github.com/mwakidenis) and [contributors](https://github.com/mwakidenis/EduKit-Africa/graphs/contributors)</sub>
+  
+</div>
+/EduKit-Africa/graphs/contributors)
+- Monthly community highlights on our social media
+- Annual contributor showcase
+- Special badges for significant contributions
+- Featured in our "Contributor Spotlight" blog series
+
+### ❓ Questions?
+
+- 💬 Join our [Discussions](https://github.com/mwakidenis/EduKit-Africa/discussions)
+- 📧 Email us at [contribute@edukit-africa.com](mailto:contribute@edukit-africa.com)
+- 🐛 [Report issues](https://github.com/mwakidenis/EduKit-Africa/issues)
+- 💡 [Suggest features](https://github.com/mwakidenis/EduKit-Africa/issues/new?assignees=&labels=enhancement&template=feature_request.md)
+
+---
+
+## 🌟 Join Our Community
+
+<div align="center">
+
+### We're Building Something Special - Join Us! 🚀
+
+**EduKit Africa is more than just code - it's a movement to make tech education accessible to everyone.**
+
+#### 👥 Looking for:
+- 🔹 Frontend Developers (React, TypeScript)
+- 🔹 Backend Developers (PostgreSQL, Supabase)
+- 🔹 UI/UX Designers
+- 🔹 Technical Writers
+- 🔹 DevOps Engineers
+- 🔹 Community Managers
+- 🔹 Content Curators
+
+#### 💡 What You'll Gain:
+- ✅ Real-world open-source experience
+- ✅ Collaborate with developers worldwide
+- ✅ Build your portfolio with meaningful projects
+- ✅ Learn modern web development practices
+- ✅ Make a positive impact on tech education in Africa
+- ✅ Recognition in the community
+
+#### 🤝 How to Get Involved:
+1. ⭐ **Star this repository** to show your support
+2. 🍴 **Fork the repository** and start contributing
+3. 💬 **Join our discussions** to connect with the community
+4. 📣 **Spread the word** - share EduKit Africa with others
+5. 📧 **Reach out** if you want to take on a leadership role
+
+### Let's democratize tech education together! 🌍
+
+</div>
+
+---
+
+## 📜 Code of Conduct
+
+We are committed to providing a welcoming and inclusive experience for everyone. Please read our full [Code of Conduct](CODE_OF_CONDUCT.md) to understand the standards we uphold.
+
+**In summary:**
+- ✅ Be respectful and inclusive
+- ✅ Welcome newcomers warmly
+- ✅ Accept constructive criticism gracefully
+- ✅ Focus on what's best for the community
+- ❌ No harassment or discriminatory behavior
+- ❌ No trolling or personal attacks
+
+**Violations?** Report to [contribute@edukit-africa.com](mailto:contribute@edukit-africa.com)
+
+---
+
+## 🔒 Security
+
+Found a security vulnerability? Please see our [Security Policy](SECURITY.md) for how to report it responsibly.
+
+**Do not report security issues publicly.** Email security@edukit-africa.com instead.
+
+---
+
+## 📄 License
+
+Distributed under the MIT License. See `LICENSE` file for more information.
+
+```
+MIT License
+
+Copyright (c) 2024 EduKit Africa
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
+---
+
+## 📞 Contact & Community
+
+<div align="center">
+
+### Connect With Us
+
+| Platform | Link | Purpose |
+|----------|------|---------|
+| 💻 **GitHub** | [EduKit Africa Repository](https://github.com/mwakidenis/EduKit-Africa) | Code, Issues, PRs |
+| 🐦 **Twitter** | [@EdukitAfrica](https://twitter.com/edukitafrica) | Updates & News |
+| 💬 **Discussions** | [GitHub Discussions](https://github.com/mwakidenis/EduKit-Africa/discussions) | Community Chat |
+| 📧 **Email** | contact@edukitafrica.org | General Inquiries |
+| 🤝 **LinkedIn** | [EduKit Africa](#) | Professional Network |
+| 📱 **Discord** | [Join Server](#) | Real-time Chat |
+
+### 📊 Project Statistics
+
+![GitHub stars](https://img.shields.io/github/stars/mwakidenis/EduKit-Africa?style=social)
+![GitHub forks](https://img.shields.io/github/forks/mwakidenis/EduKit-Africa?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/mwakidenis/EduKit-Africa?style=social)
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/mwakidenis/EduKit-Africa)
+![GitHub last commit](https://img.shields.io/github/last-commit/mwakidenis/EduKit-Africa)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/mwakidenis/EduKit-Africa)
+
+</div>
+
+---
+
+## 🙏 Acknowledgments
+
+### 🛠️ Built With
+
+- Powered by [Supabase](https://supabase.com) - Open source Firebase alternative
+- UI components from [shadcn/ui](https://ui.shadcn.com)
+- Icons by [Lucide](https://lucide.dev)
+- Styling with [Tailwind CSS](https://tailwindcss.com)
+- Hosted on [Vercel](https://vercel.com)
+
+### 💝 Special Thanks
+
+- **Contributors**: Thank you to all our amazing [contributors](https://github.com/mwakidenis/EduKit-Africa/graphs/contributors) who have helped build EduKit Africa
+- **African Tech Community**: For the inspiration and continuous support
+- **Open Source Community**: For the tools and libraries that make this possible
+- **Early Adopters**: For testing and providing valuable feedback
+
+### 🏆 Supporters
+
+If your organization would like to sponsor this project, please [reach out](mailto:contribute@edukit-africa.com)!
+
+---
+
+## 📈 Project Metrics
+
+<div align="center">
+
+```mermaid
+pie title Resource Distribution by Category
+    "Web Development" : 25
+    "AI/ML & Data Science" : 20
+    "Cloud Computing" : 15
+    "Mobile Development" : 12
+    "DevOps" : 10
+    "Cybersecurity" : 8
+    "Blockchain & Web3" : 6
+    "Computer Science" : 4
+```
+
+**Making tech education accessible to everyone, one resource at a time.**
+
+</div>
+
+---
+
+## 🗺️ Roadmap
+
+```mermaid
+gantt
+    title EduKit Africa Development Roadmap
+    dateFormat YYYY-MM
+    section Phase 1 - Foundation
+    Core Platform           :done, 2024-01, 2024-03
+    User Authentication     :done, 2024-02, 2024-03
+    Resource Management     :done, 2024-03, 2024-04
+    section Phase 2 - Enhancement
+    Advanced Search         :active, 2024-11, 2025-01
+    Analytics Dashboard     :active, 2024-12, 2025-02
+    Testing Infrastructure  :2024-12, 2025-01
+    section Phase 3 - Growth
+    Mobile App Development  :2025-01, 2025-04
+    API v2                  :2025-02, 2025-03
+    Internationalization    :2025-02, 2025-04
+    section Phase 4 - Innovation
+    AI Recommendations      :2025-04, 2025-06
+    Learning Paths          :2025-05, 2025-07
+    Community Features      :2025-06, 2025-08
+```
+
+### 🎯 Upcoming Features
+
+- 🔍 **Q1 2025**: Advanced search with AI-powered suggestions
+- 📊 **Q1 2025**: Comprehensive analytics dashboard
+- 🌐 **Q2 2025**: Multi-language support (French, Swahili, Arabic)
+- 📱 **Q2 2025**: Native mobile applications
+- 🎓 **Q2 2025**: Guided learning paths and certifications
+- 🤖 **Q3 2025**: AI-powered resource recommendations
+- 🎮 **Q3 2025**: Gamification and achievement system
+
+## 🌟 Star History
+
+If you find this project useful, please consider giving it a star ⭐
+
+[![Star History Chart](https://api.star-history.com/svg?repos=mwakidenis/EduKit-Africa&type=Date)](https://star-history.com/#mwakidenis/EduKit-Africa&Date)
+
+---
+
+## 🎯 Good First Issues
+
+New to open source? Start here! We've curated a list of beginner-friendly issues:
+
+[![Good First Issues](https://img.shields.io/github/issues/mwakidenis/EduFreeKit/good%20first%20issue?color=7057ff&label=Good%20First%20Issues)](https://github.com/mwakidenis/EduKit-Africa/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+
+### 🔰 Beginner-Friendly Tasks
+
+1. **Documentation**: Fix typos, improve clarity, add examples
+2. **UI Improvements**: Enhance button styles, improve spacing
+3. **Accessibility**: Add ARIA labels, improve keyboard navigation
+4. **Bug Fixes**: Simple bug fixes with clear reproduction steps
+5. **Testing**: Write tests for existing components
+
+---
+
+<div align="center">
+
+## 💖 Support the Project 
+
+
+If EduKit Africa has helped you, consider supporting us:
+
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-pink?style=for-the-badge&logo=github)](https://github.com/sponsors/mwakidenis)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/edukitafrica)
 
 ### Ways to Support
 - ⭐ Star this repository
@@ -1920,7 +1922,6 @@ If EduKit Africa has helped you, consider supporting us:
   
   ---
   
-  <sub>Built by [mwakidenis](https://github.com/mwakidenis) and [contributors](https://github.com/mwakidenis/EduFreeKit/graphs/contributors)</sub>
-  [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%F0%9F%8D%B5-yellow)](https://wa.me/254798750585)
-
+  <sub>Built by [mwakidenis](https://github.com/mwakidenis) and [contributors](https://github.com/mwakidenis/EduKit-Africa/graphs/contributors)</sub>
+  
 </div>
