@@ -486,8 +486,8 @@ If applicable, add screenshots
 ## Questions?
 
 - Open an issue with the `question` label
-- Reach out on [Twitter](https://x.com/LewiiiTheG)
-- Email: ngondimarklewis@gmail.com
+- Reach out on [Twitter](https://x.com/Mwaki_Denis)
+- Email: mwakidenice@gmail.com
 
 ---
 
