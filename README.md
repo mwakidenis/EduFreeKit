@@ -1289,7 +1289,7 @@ sequenceDiagram
 
 2. **Clone your fork**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/edukit-africa.git
+   git clone https://github.com/mwakidenis/EduFreeKit.git
    cd edukit-africa
    ```
 
