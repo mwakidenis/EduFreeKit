@@ -1640,7 +1640,7 @@ If EduKit Africa has helped you, consider supporting us:
 
 ---
 
-![Repo Views](https://komarev.com/ghpvc/?username=mwakidenis-EduKit-Africa&label=EduKit-Africa+Views&color=blue&style=flat)
+![Repo Views](https://komarev.com/ghpvc/?username=mwakidenis-EduFreeKit&label=EduFreeKit+Views&color=blue&style=flat)
 
   **Made with ❤️ in Africa for the World 🌍**
   
@@ -1650,10 +1650,9 @@ If EduKit Africa has helped you, consider supporting us:
   
   ---
   
-  <sub>Built by [lewiii254](https://github.com/mwakidenis) and [contributors](https://github.com/mwakidenis/EduKit-Africa/graphs/contributors)</sub>
+  <sub>Built by (https://github.com/mwakidenis) and [contributors]/EduFreeKit/graphs/contributors)</sub>
   
 </div>
-/EduKit-Africa/graphs/contributors)
 - Monthly community highlights on our social media
 - Annual contributor showcase
 - Special badges for significant contributions
@@ -1768,9 +1767,9 @@ SOFTWARE.
 
 | Platform | Link | Purpose |
 |----------|------|---------|
-| 💻 **GitHub** | [EduKit Africa Repository](https://github.com/mwakidenis/EduKit-Africa) | Code, Issues, PRs |
+| 💻 **GitHub** | [EduKit Africa Repository](https://github.com/mwakidenis/EduFreeKit/) | Code, Issues, PRs |
 | 🐦 **Twitter** | [@EdukitAfrica](https://twitter.com/edukitafrica) | Updates & News |
-| 💬 **Discussions** | [GitHub Discussions](https://github.com/mwakidenis/EduKit-Africa/discussions) | Community Chat |
+| 💬 **Discussions** | [GitHub Discussions](https://github.com/mwakidenis/EduFreeKit/discussions) | Community Chat |
 | 📧 **Email** | contact@edukitafrica.org | General Inquiries |
 | 🤝 **LinkedIn** | [EduKit Africa](#) | Professional Network |
 | 📱 **Discord** | [Join Server](#) | Real-time Chat |
@@ -1911,7 +1910,7 @@ If EduKit Africa has helped you, consider supporting us:
 
 ---
 
-![Repo Views](https://komarev.com/ghpvc/?username=mwakidenis-EduFreeKit&label=EduKit-Africa+Views&color=blue&style=flat)
+![Repo Views](https://komarev.com/ghpvc/?username=mwakidenis-EduFreeKit&label=EduFreeKit+Views&color=blue&style=flat)
 
   **Made with ❤️ in Africa for the World 🌍**
   
@@ -1922,5 +1921,6 @@ If EduKit Africa has helped you, consider supporting us:
   ---
   
   <sub>Built by [mwakidenis](https://github.com/mwakidenis) and [contributors](https://github.com/mwakidenis/EduFreeKit/graphs/contributors)</sub>
-  
+  [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%F0%9F%8D%B5-yellow)](https://wa.me/254798750585)
+
 </div>
