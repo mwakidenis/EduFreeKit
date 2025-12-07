@@ -1899,7 +1899,7 @@ New to open source? Start here! We've curated a list of beginner-friendly issues
 If EduKit Africa has helped you, consider supporting us:
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-pink?style=for-the-badge&logo=github)](https://github.com/sponsors/mwakidenis)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/edukitafrica)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow?style=for-the-badge&logo=buy-me-a-coffee)](https://wa.me/254798750585)
 
 ### Ways to Support
 - ⭐ Star this repository
