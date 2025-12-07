@@ -1290,7 +1290,7 @@ sequenceDiagram
 2. **Clone your fork**
    ```bash
    git clone https://github.com/mwakidenis/EduFreeKit.git
-   cd edukit-africa
+   cd EduFreeKit
    ```
 
 3. **Create a feature branch**
@@ -1382,7 +1382,7 @@ We're especially looking for help in these areas:
 ### 🏆 Recognition
 
 All contributors are recognized in our:
-- [Contributors Page](https://github.com/lewiii254/EduKit-Africa/graphs/contributors)
+- [Contributors Page](https://github.com/mwakidenis/EduFreeKit/graphs/contributors)
 - Monthly community highlights on our social media
 - Annual contributor showcase
 - Special badges for significant contributions
