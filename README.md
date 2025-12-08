@@ -802,9 +802,9 @@ SOFTWARE.
 
 | Platform | Link | Purpose |
 |----------|------|---------|
-| 💻 **GitHub** | [EduKit Africa Repository](https://github.com/mwakidenis/EduKit-Africa) | Code, Issues, PRs |
-| 🐦 **Twitter** | [@EdukitAfrica](https://twitter.com/edukitafrica) | Updates & News |
-| 💬 **Discussions** | [GitHub Discussions](https://github.com/mwakidenis/EduKit-Africa/discussions) | Community Chat |
+| 💻 **GitHub** | [EduKit Africa Repository](https://github.com/mwakidenis/EduFreeKit) | Code, Issues, PRs |
+| 🐦 **Twitter** | [@EdukitAfrica](https://twitter.com/EduFreeKit) | Updates & News |
+| 💬 **Discussions** | [GitHub Discussions](https://github.com/mwakidenis/EduFreeKit/discussions) | Community Chat |
 | 📧 **Email** | contact@edukitafrica.org | General Inquiries |
 | 🤝 **LinkedIn** | [EduKit Africa](#) | Professional Network |
 | 📱 **Discord** | [Join Server](#) | Real-time Chat |
